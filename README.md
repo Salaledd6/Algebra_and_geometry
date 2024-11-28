@@ -1,4 +1,5 @@
 Algebra ja geometria (4op)
+
 Octave-harjoitukset
 
 Trigonometria: 1-8, 11, 15
