@@ -1,17 +1,16 @@
-Algebra ja geometria (4op)
+Algebra and Geometry (4 credits)
+Octave Exercises
 
-Octave-harjoitukset
+Trigonometry: 1-8, 11, 15
 
-Trigonometria: 1-8, 11, 15
+Analytical Geometry: 1-3, 7, 8
 
-Analyyttinen geometria: 1-3, 7, 8
+Analytical Geometry Part 2: 1-4, 6-9
 
-Analyyttinen geometria osa 2: 1-4, 6-9
+Sine Waves: 1-3
 
-Sinikäyrät: 1-3
+Complex Numbers: 1
 
-Kompleksiluvut: 1
+Exponent and Logarithm: 1-2
 
-eksponentti ja logaritmi: 1-2
-
-yhteensä 29
+Total: 29
