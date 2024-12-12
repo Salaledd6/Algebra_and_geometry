@@ -1,4 +1,5 @@
 Algebra and Geometry (4 credits)
+
 Octave Exercises
 
 Trigonometry: 1-8, 11, 15
